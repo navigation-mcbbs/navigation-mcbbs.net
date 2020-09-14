@@ -20,7 +20,7 @@
   links: 
     - title: 名称
       logo: /assets/images/logos/logo.png
-      url: 链接
+      url: https://www.mcbbs.net
       description: 描述
 
 - name: 待添加
@@ -28,7 +28,7 @@
   links: 
     - title: 名称
       logo: /assets/images/logos/logo.png
-      url: 链接
+      url: https://www.mcbbs.net
       description: 描述
       
 - name: 待添加
@@ -36,7 +36,7 @@
   links: 
     - title: 名称
       logo: /assets/images/logos/logo.png
-      url: 链接
+      url: https://www.mcbbs.net
       description: 描述
       
 
@@ -45,7 +45,7 @@
   links: 
     - title: 名称
       logo: /assets/images/logos/logo.png
-      url: 链接
+      url: https://www.mcbbs.net
       description: 描述
       
   
@@ -55,28 +55,28 @@
     - name: 子分类名称
       links:
         - title: 名称
-          url: 链接地址
-          logo: /assets/images/logos/logo.png
-          description: 描述.    - name: 子分类名称
-        - title: 名称
-          url: 链接地址
-          logo: /assets/images/logos/logo.png
-          description: 描述.    - name: 子分类名称
-    - name: 子分类名称
-      links:
-        - title: 名称
-          url: 链接地址
+          url: https://www.mcbbs.net
           logo: /assets/images/logos/logo.png
           description: 描述.
         - title: 名称
-          url: 链接地址
+          url: https://www.mcbbs.net
           logo: /assets/images/logos/logo.png
-          description: 描述.    - name: 子分类名称
+          description: 描述.
+    - name: 子分类名称
+      links:
+        - title: 名称
+          url: https://www.mcbbs.net
+          logo: /assets/images/logos/logo.png
+          description: 描述.
+        - title: 名称
+          url: https://www.mcbbs.net
+          logo: /assets/images/logos/logo.png
+          description: 描述.
           
 - name: 贡献名单
   icon: linecons-user
   links: 
     - title: X-code
-      url: https://www.mcbbs.net/home.php?mod=space&uid=3586961
+      url: https://www.mcbbs.net/?3586961
       logo: /assets/images/logos/AirbnbDesign.png
       description: 发起创建人
