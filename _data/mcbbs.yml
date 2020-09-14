@@ -2,7 +2,6 @@
   icon: linecons-star
   links: 
     - title: HMCL
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net/thread-142335-1-1.html
       description: HMCL
       
@@ -11,7 +10,6 @@
   icon: linecons-star
   links: 
     - title: 原版服务端
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net/thread-1113349-1-1.html
       description: 原版服务端。
       
@@ -19,7 +17,6 @@
   icon: linecons-doc
   links: 
     - title: 名称
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net
       description: 描述
 
@@ -27,7 +24,6 @@
   icon: linecons-lightbulb
   links: 
     - title: 名称
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net
       description: 描述
       
@@ -35,7 +31,6 @@
   icon: linecons-thumbs-up
   links: 
     - title: 名称
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net
       description: 描述
       
@@ -44,7 +39,6 @@
   icon: linecons-diamond
   links: 
     - title: 名称
-      logo: /assets/images/logos/logo.png
       url: https://www.mcbbs.net
       description: 描述
       
@@ -56,21 +50,17 @@
       links:
         - title: 名称
           url: https://www.mcbbs.net
-          logo: /assets/images/logos/logo.png
           description: 描述.
         - title: 名称
           url: https://www.mcbbs.net
-          logo: /assets/images/logos/logo.png
           description: 描述.
     - name: 子分类名称
       links:
         - title: 名称
           url: https://www.mcbbs.net
-          logo: /assets/images/logos/logo.png
           description: 描述.
         - title: 名称
           url: https://www.mcbbs.net
-          logo: /assets/images/logos/logo.png
           description: 描述.
           
 - name: 贡献名单
@@ -78,5 +68,4 @@
   links: 
     - title: X-code
       url: https://www.mcbbs.net/?3586961
-      logo: /assets/images/logos/AirbnbDesign.png
       description: 发起创建人
