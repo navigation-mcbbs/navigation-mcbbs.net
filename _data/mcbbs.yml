@@ -1,0 +1,82 @@
+- name: 启动器
+  icon: linecons-star
+  links: 
+    - title: HMCL
+      logo: /assets/images/logos/logo.png
+      url: https://www.mcbbs.net/thread-142335-1-1.html
+      description: HMCL
+      
+    
+- name: 服务端
+  icon: linecons-star
+  links: 
+    - title: 原版服务端
+      logo: /assets/images/logos/logo.png
+      url: https://www.mcbbs.net/thread-1113349-1-1.html
+      description: 原版服务端。
+      
+- name: 待添加
+  icon: linecons-doc
+  links: 
+    - title: 名称
+      logo: /assets/images/logos/logo.png
+      url: 链接
+      description: 描述
+
+- name: 待添加
+  icon: linecons-lightbulb
+  links: 
+    - title: 名称
+      logo: /assets/images/logos/logo.png
+      url: 链接
+      description: 描述
+      
+- name: 待添加
+  icon: linecons-thumbs-up
+  links: 
+    - title: 名称
+      logo: /assets/images/logos/logo.png
+      url: 链接
+      description: 描述
+      
+
+- name: 待添加
+  icon: linecons-diamond
+  links: 
+    - title: 名称
+      logo: /assets/images/logos/logo.png
+      url: 链接
+      description: 描述
+      
+  
+- name: 主分类名称
+  icon: linecons-pencil
+  sub: 
+    - name: 子分类名称
+      links:
+        - title: 名称
+          url: 链接地址
+          logo: /assets/images/logos/logo.png
+          description: 描述.    - name: 子分类名称
+        - title: 名称
+          url: 链接地址
+          logo: /assets/images/logos/logo.png
+          description: 描述.    - name: 子分类名称
+    - name: 子分类名称
+      links:
+        - title: 名称
+          url: 链接地址
+          logo: /assets/images/logos/logo.png
+          description: 描述.
+        - title: 名称
+          url: 链接地址
+          logo: /assets/images/logos/logo.png
+          description: 描述.    - name: 子分类名称
+          
+- name: 贡献名单
+  icon: linecons-user
+  links: 
+    - title: X-code
+      url: https://www.mcbbs.net/home.php?mod=space&uid=3586961
+      logo: /assets/images/logos/AirbnbDesign.png
+      description: 发起创建人
