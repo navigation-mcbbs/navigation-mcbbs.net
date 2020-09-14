@@ -9,11 +9,11 @@
 - name: 服务端
   icon: linecons-star
   links: 
-    - title: 原版服务端
-      url: https://www.mcbbs.net/thread-1113349-1-1.html
-      description: 原版服务端。
+    - title: 服务端
+      url: https://www.mcbbs.net
+      description: 服务端。
       
-- name: 待添加
+- name: 软件
   icon: linecons-doc
   links: 
     - title: 名称
@@ -63,9 +63,21 @@
           url: https://www.mcbbs.net
           description: 描述.
           
-- name: 贡献名单
+- name: 关于作者
   icon: linecons-user
   links: 
-    - title: X-code
+    - title: 创建人 X-code
       url: https://www.mcbbs.net/?3586961
       description: 发起创建人
+  links: 
+    - title: 全版本服务端
+      url: https://www.mcbbs.net/thread-1113349-1-1.html
+      description: 多种类型全版本服务端
+  links: 
+    - title: 全版本客户端
+      url: https://www.mcbbs.net/thread-1113521-1-1.html
+      description: 多版本客户端
+  links: 
+    - title: skillapi编辑器
+      url: https://skillapi.mcss.vip
+      description: skillapi编辑器多版本
